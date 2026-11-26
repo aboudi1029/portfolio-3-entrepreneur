@@ -1,0 +1,37 @@
+# Abdurahman Muhammed — Technology Entrepreneur
+
+> Machine-readable context document for Portfolio 3 (Technology Entrepreneur) within the official 7-website digital identity ecosystem of Abdurahman Muhammed.
+
+## Identity & Venture Overview
+- **Name**: Abdurahman Muhammed
+- **Alternate Name**: Abdurahman Mohammed
+- **Positioning**: Technology Entrepreneur & AI Architect
+- **Operating Location**: Addis Ababa, Ethiopia (Serving international clients worldwide)
+- **Role in Ecosystem**: Site 3 of 7 — Dedicated Venture Creation, Startups & Commercial Initiatives
+
+## Active Companies & Ventures
+1. **Rendr Studio**:
+   - **Role**: Founder & Lead Architect
+   - **Model**: Digital product studio, full-stack software development, custom SaaS MVPs
+   - **Live Site**: https://abcodigitals.netlify.app
+   - **Track Record**: 34+ satisfied clients across 6+ countries
+
+2. **NovaTra Digital Marketing**:
+   - **Role**: Co-Founder
+   - **Model**: Performance marketing, conversion funnel engineering, digital growth
+   - **Live Site**: https://novatrainc.netlify.app
+
+## Commercial Products & Key Initiatives
+- **EthioSuq Platform**: (https://ethiosuq.com) Nationwide multi-vendor eCommerce ecosystem with localized order workflows and real-time inventory management.
+- **Arvion Digital**: (https://arviondigitals.netlify.app) High-performance agency web presence and client lead generation engine.
+
+## Venture Execution Principles
+- Inefficiency Discovery: Target friction points with measurable leverage.
+- Rapid Full-Stack Prototyping: Build working MVPs in weeks using React, Node.js, Express, MongoDB.
+- Capital-Efficient Scale: Organic growth compounding through verified client satisfaction.
+
+## Verified Contact
+- **Email**: aboudive@gmail.com
+- **Telegram**: https://t.me/kartalceo (@kartalceo)
+- **LinkedIn**: https://www.linkedin.com/in/abdurahmanmohammed/
+- **Flagship Portfolio**: https://abdurahmancoder.netlify.app/
